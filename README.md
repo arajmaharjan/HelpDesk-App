@@ -9,7 +9,7 @@ Application for Help Desk Requests.
 
 # Clone or fork repository: 
 * $ Git Clone https://github.com/arajmaharjan/HelpDesk-App 
-# Create and activate a virtual environment inside the 'hiking-habit' directory: 
+# Create and activate a virtual environment 
 $ virtualenv env
 $ source env/bin/activate
 # Install dependencies:
